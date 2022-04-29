@@ -5,7 +5,7 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-## Intsall preset BrewFile
+## Install preset BrewFile
 ```zsh
 git clone https://github.com/psch300/welcome.git
 cd welcome
