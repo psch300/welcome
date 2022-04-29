@@ -1,1 +1,5 @@
 # welcome
+
+```zsh
+brew bundle
+```
